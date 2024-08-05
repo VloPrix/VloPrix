@@ -18,7 +18,7 @@ Welcome to my profile! My name is Luke, I'm a 19 year old System Engineer from Z
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VloPrix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links:
-- [LinkedIn](https://www.linkedin.com/in/luke-haase-326669228/)
+- [LinkedIn](https://www.linkedin.com/in/luke-haase/)
 
 
 <!--
