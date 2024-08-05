@@ -1,8 +1,24 @@
-## Welcome
+# Welcome
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VloPrix)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my profile! My name is Luke, I'm a 19 year old System Engineer from Zurich. I write Scripts and other applications for server administration. I am also interested in webdevelopement with PHP, Javascript, MySQL.
+
+## I know:
+- System administration (Linux / Windows)
+- PHP
+- Javascript
+- jQuery
+- HTML / CSS
+- MySQL
+- Powershell / Bash
+
+## I am learning:
+- C
+- C++
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VloPrix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+## Links:
+- [LinkedIn](https://www.linkedin.com/in/luke-haase-326669228/)
 
 
 <!--
