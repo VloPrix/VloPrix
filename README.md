@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to my profile! My name is Luke, I'm a 19 year old System Engineer from Zurich. I write Scripts and other applications for server administration. I am also interested in webdevelopement with PHP, Javascript, MySQL.
+Welcome to my profile! My name is Luke, I'm a 19 year old System Engineer from Zurich. I mainly write Scripts and other applications for the administration of Windows and Linux Servers. I am also interested in webdevelopement with PHP, Javascript, MySQL.
 
 ## I know:
 - System administration (Linux / Windows)
