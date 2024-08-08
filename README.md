@@ -10,6 +10,7 @@ Welcome to my profile! My name is Luke, I'm a 19 year old System Engineer from Z
 - HTML / CSS
 - MySQL
 - Powershell / Bash
+- Little bit of C# with WPF
 
 ## I am learning:
 - C
